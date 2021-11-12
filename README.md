@@ -6,7 +6,7 @@
 
 | baseUrl 
 | ------ |
-| http://localhost:3000/api/v1 |
+| https://ms-afifmakarim-betest.herokuapp.com/api/v1 |
 
 | Method | Path | Description |
 | ------ | ------ | ------ |
