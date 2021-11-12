@@ -11,7 +11,7 @@
 | Method | Path | Description |
 | ------ | ------ | ------ |
 | POST | /signup | Create new admin |
-| POST | /signin | Create new accessToken |
+| POST | /signin | Create new accessToken(JWT)|
 
 ### CRUD
 
